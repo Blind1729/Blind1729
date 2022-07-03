@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lenslocked](https://github.com/Blind1729/Lenslocked)
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently working as a **backend engineer** at <a href="https://www.sendinblue.com/">Sendinblue</a>
 
 - 📫 How to reach me **arunsuryan1729@outlook.in**
 
