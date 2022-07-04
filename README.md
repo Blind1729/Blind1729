@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working as a **backend engineer** at <a href="https://www.sendinblue.com/">Sendinblue</a>
 
-- 📫 How to reach me **arunsuryan1729@outlook.in**
+- 📫 Hit me up on **arunsuryan1729@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
