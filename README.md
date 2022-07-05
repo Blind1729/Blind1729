@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blind1729" alt="blind1729" /></a> </p>
 
-- 👨‍🎓 I finished my college from Natioanl Institute of Technology, Jamshedpur
+- 👨‍🎓 I finished my college from National Institute of Technology, Jamshedpur
 
 - 🔭 I’m currently learning backend development with Go and working on [Lenslocked](https://github.com/Blind1729/Lenslocked) as a personal project on weekends
 
