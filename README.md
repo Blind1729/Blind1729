@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blind1729" alt="blind1729" /></a> </p>
 
-- 🔭 I’m currently learning backend development and working on [Lenslocked](https://github.com/Blind1729/Lenslocked) as a personal project on weekends
+- 🔭 I’m currently learning backend development with Go and working on [Lenslocked](https://github.com/Blind1729/Lenslocked) as a personal project on weekends
 
 - 🌱 I’m currently working as a **backend engineer** at <a href="https://www.sendinblue.com/">Sendinblue</a>
 
